@@ -9,4 +9,5 @@ This code is implmented purely from HTML and CSS. Here following concepts of fro
 **Snapshots**
 
 **Mobile View (Responsive)**
+
 ![_C__Users_Sahil%20Seewal_Desktop_sample html (2)](https://github.com/user-attachments/assets/a74b91c1-3f4f-423d-9382-a5dbb773bb3b)
